@@ -1,0 +1,9 @@
+TÉTEL 9//////////////////////////////////////////:
+
+Version-control software are software specifically designed to make project development easier for developer teams. Version-control software are like
+Git which is full of useful features. After creating a project you can choose to create a branch. Branches are a project's copied version that you can
+edit at any time independently from the original project. The Project's current files are always in the "main" branch. If you've edited some files,
+you can do a so called "pull-request" where to submit your branch. After checking the changes and updates in your submitted branch, the project owner can
+"merge" your branch the main branch to update the project. This type of functionality makes it really easy to teams or in case of open-source software, community members
+to contribute to a project. Every successful "pull-request" is called a "push". These contain the changes and notes with dates and version numbers that can help
+keep tracing of our project. Every push is revertible and easy to use, or compare with other versions if you would like to do that.

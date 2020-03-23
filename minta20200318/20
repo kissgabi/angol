@@ -1,0 +1,6 @@
+TÉTEL 20//////////////////////////////////////////:
+
+I've learnt many algorithm-describing structures such as Linear and Structogram. For example the linear structure as it comes from it's name, linear.
+It writes every action after to other and uses a shape-based system to indicate the functionality of the functions. It shows different shapes based on
+the type of functionality, such a ball for loops, rounded rectangles for start/stop events, rectangles for initialization or gem shape for if-else statements.
+These elements are connected via lines that's intended to show the logical flow of the program.

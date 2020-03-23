@@ -1,0 +1,11 @@
+TÉTEL 11//////////////////////////////////////////:
+
+Hello Dave,
+I've been asked to check your code before adding it to our project. I like the updates to the code they are great, but I've noticed that you rather use inline styling
+than separate CSS files. Using inline style is a practical way of changing an element's style easy and fast but it's certainly not a great practice if we are working
+on a bigger project. With the help of HTML, we can refer to CSS files. CSS files are easy to manage and edit. With the help of separate CSS files, we can provide 
+a clear structure for our project. Using separate CSS files can help us to edit the CSS files only instead of the HTML/PHP file, in case of design change.
+Don't worry, this is a common junior mistake, but I am sure you'll get used to using separate CSS files really easily. I've corrected your code but moving the inline
+styling to a separate CSS file, but pay attention next time not to make this mistake again.
+Take care,
+Mike W.

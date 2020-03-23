@@ -1,0 +1,8 @@
+TÉTEL 8//////////////////////////////////////////:
+
+Today’s market of phones, tablets and different types of devices is really big. Thus the screen size of different devices
+of different brands varies. The variety of size to resolution ratios is large and this makes responsive web development really hard.
+The preferred resolutions ratio is 16:9 or 9:16 for phones and hand devices. Different resolutions can cause size and position problems for
+web elements but that can be solved it relative calculations of the resolution. As for the aspect-ratios we have no other choice but to the current
+web page on as many aspect-ratios as we can. Starting with the most popular ones to the least popular ones. We can not solve every scenario
+but that's how we can do our best to make it work in most cases.

@@ -1,0 +1,7 @@
+TÉTEL 10//////////////////////////////////////////:
+
+Az OOP azaz Obect Oriented Programming is a programming model that contains "Objects" which are data groups in the memory. An Object has is part of a Class.
+Every Class has it's own variables and functions. With OOP, you are able to give every individual object a variable. These variables are either public, or private.
+Public variables are accessible from outside the Class functions are modifiable. Private variables are only modifiable by class methods. This helps us hide
+variables that are not intended to be used outside of the class, and thus prevent possible errors and bugs. Classes contain functions that are only available
+for their objects. We refer to these functions and "Virtual Methods". OOP helps with writing code, and code readability as oppose to for example sequential programming.
